@@ -1,0 +1,7 @@
+# Report a security issue in this site or in any codedevloper repository.
+# Please use GitHub's private vulnerability reporting; do not open a public issue.
+Contact: https://github.com/codedevloper/codedevloper.github.io/security/advisories/new
+Expires: 2027-10-25T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://codedevloper.github.io/.well-known/security.txt
+Policy: https://github.com/codedevloper/codedevloper.github.io/security/policy
